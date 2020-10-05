@@ -31,6 +31,6 @@ I am a self-taught web developer passionate about innovative ideas that can be c
 
 <img align="right" width="250" alt="GIF" src="https://media.giphy.com/media/Me7Jvz4x9RA4dpV9sS/giphy.gif">
  
-<h4>What I'm listening to right nowk 🎧</h4>
+<h4>What I'm listening to right now 🎧</h4>
 
 [<img src="https://spotify-now-playing-ecru.vercel.app/api/spotify" alt="maxhiit spotify player" width="350" align="left"/>](https://open.spotify.com/user/maxhiit)
