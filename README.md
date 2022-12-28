@@ -22,11 +22,3 @@ I am a self-taught web developer passionate about innovative ideas that can be c
 <img align="left" alt="GitHub" width="35" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png">
 <img align="left" alt="Terminal" width="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
 <img align="left" alt="Figma" width="36" height="36" src="https://raw.githubusercontent.com/github/explore/05d0f0dfceafd861bdf2b53559399dae7b2e2d8b/topics/figma/figma.png">
-
-<br/>
-<br/>
-<br/>
-
-<h3 align="center">⚡ Fun fact</h3>
-
-<img align="right" width="250" alt="GIF" src="https://media.giphy.com/media/Me7Jvz4x9RA4dpV9sS/giphy.gif">
